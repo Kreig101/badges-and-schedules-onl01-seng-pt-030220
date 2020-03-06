@@ -27,4 +27,3 @@ def printer
   assign_rooms
 
 end
-end
