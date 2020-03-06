@@ -23,6 +23,6 @@ y
 end
 
 def printer(attendees)
-  badge_maker assign_rooms
+
   
 end
