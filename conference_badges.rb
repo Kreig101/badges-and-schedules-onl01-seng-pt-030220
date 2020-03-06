@@ -22,8 +22,9 @@ end
 y
 end
 
-def printer
-  batch_badge_creator
+def printer(attendees)
+  
+  attendees = batch_badge_creator
   assign_rooms
 
 end
