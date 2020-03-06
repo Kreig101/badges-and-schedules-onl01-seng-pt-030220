@@ -22,5 +22,6 @@ end
 y
 end
 
-def printer
+def printer(attendees)
+  
 end
