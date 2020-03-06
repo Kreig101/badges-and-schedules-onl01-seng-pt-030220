@@ -23,6 +23,8 @@ y
 end
 
 def printer(attendees)
-
+attendees.each do |x, y|
+  binding.pry
   
+end
 end
