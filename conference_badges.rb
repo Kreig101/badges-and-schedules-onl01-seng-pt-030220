@@ -22,6 +22,6 @@ end
 y
 end
 
-def printer(attendees)
+def printer(attendees,)
   
 end
