@@ -11,4 +11,6 @@ end
 y
 end
 
-conference_badges()
+def assign_rooms(attendees)
+  attendees
+end
