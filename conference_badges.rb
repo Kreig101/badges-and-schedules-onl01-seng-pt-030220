@@ -22,6 +22,7 @@ end
 y
 end
 
-def printer(attendees,assign_rooms)
+def printer(attendees)
+  badge_maker assign_rooms
   
 end
